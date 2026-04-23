@@ -1,0 +1,13 @@
+{
+    "name": "hitaqnia/haykal",
+    "description": "Haykal metapackage: installs haykal-api + haykal-filament for full-stack projects.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.3",
+        "hitaqnia/haykal-api": "^1.0",
+        "hitaqnia/haykal-filament": "^1.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
